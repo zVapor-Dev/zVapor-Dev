@@ -43,9 +43,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/zVapor-Dev/zVapor-Dev/blob/output/snake.svg" alt="Snake animation" />
-
-###
