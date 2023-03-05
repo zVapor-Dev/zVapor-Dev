@@ -30,9 +30,6 @@
 <a href="https://top.gg/bot/941052587837378570">
   <img src="https://top.gg/api/widget/941052587837378570.svg">
 </a>
-<a href="https://top.gg/bot/941052587837378570">
-    <img src="https://top.gg/api/widget/servers/941052587837378570.svg">
-</a>
 
 ###
 
